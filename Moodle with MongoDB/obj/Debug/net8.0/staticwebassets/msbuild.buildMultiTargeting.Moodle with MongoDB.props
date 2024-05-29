@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Moodle with MongoDB.props" />
+</Project>

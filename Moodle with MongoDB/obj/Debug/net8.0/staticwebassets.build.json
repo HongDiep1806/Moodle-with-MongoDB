@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9T23KqeFbO6AFjF3XnQqyHxQ/hWicv4+L3MuwTuxfkk=",
+  "Source": "Moodle with MongoDB",
+  "BasePath": "_content/Moodle with MongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
