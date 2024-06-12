@@ -5,9 +5,10 @@ namespace Moodle_with_MongoDB.Service
 {
     public interface ICourseService
     {
-        Course Create(CreateCourseRequest request);
-        string Delete(DeleteCourseRequest request); 
-        string GetById(GetCourseByIDRequest request);   
-
+        void Create(CreateCourseRequest request);
+        void Delete(DeleteCourseRequest request);
+        List<Course> GetAll();
+        Course GetById(GetCourseByIDRequest request);
+        Course GetByName(GetCourseByNameRequest request);
     }
 }

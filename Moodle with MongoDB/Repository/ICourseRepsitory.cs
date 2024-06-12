@@ -3,13 +3,8 @@ using Moodle_with_MongoDB.WebModel;
 
 namespace Moodle_with_MongoDB.Repository
 {
-    public interface ICourseRepsitory
+    public interface ICourseRepsitory : IBaseRepository<Course>
     {
-        List<Course> GetAll();
-        void Create(CreateCourseRequest request);
-        void Update(UpdateCourseRequest request);
-        void Delete(DeleteCourseRequest request);
-        Course GetByID(GetCourseByIDRequest request);
         Course GetCourseByName(string courseName);  
     }
 }

@@ -1,23 +1,44 @@
 ﻿using Moodle_with_MongoDB.Model;
+using Moodle_with_MongoDB.Repository;
 using Moodle_with_MongoDB.WebModel;
 
 namespace Moodle_with_MongoDB.Service
 {
     public class CourseService : ICourseService
     {
-        public Course Create(CreateCourseRequest request)
+        private readonly ICourseRepsitory _courseRepository;
+        public CourseService(ICourseRepsitory courseRepository)
         {
-            return new Course { Name = request.Name, TeacherID = request.TeacherID };
+            _courseRepository = courseRepository;
         }
 
-        public string Delete(DeleteCourseRequest request)
+        public void Create(CreateCourseRequest request)
         {
-            return request.ID.ToString();   
+
+            _courseRepository.Create(new Course() { TeacherID = request.TeacherID, Name = request.Name });
+
         }
 
-        public string GetById(GetCourseByIDRequest request)
+        public void Delete(DeleteCourseRequest request)
         {
-            return request.CourseID.ToString(); 
+            _courseRepository.Delete(request.ID);
         }
+
+        public List<Course> GetAll()
+        {
+            return _courseRepository.GetAll();
+        }
+
+        public Course GetById(GetCourseByIDRequest request)
+        {
+            return _courseRepository.GetByID(request.CourseID);
+        }
+
+        public Course GetByName(GetCourseByNameRequest request)
+        {
+            return _courseRepository.GetCourseByName(request.CourseName);
+        }
+
+
     }
 }

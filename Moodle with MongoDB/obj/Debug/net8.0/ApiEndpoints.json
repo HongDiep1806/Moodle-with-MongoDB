@@ -66,9 +66,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "name",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "request",
+        "Type": "Moodle_with_MongoDB.WebModel.GetCourseByNameRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

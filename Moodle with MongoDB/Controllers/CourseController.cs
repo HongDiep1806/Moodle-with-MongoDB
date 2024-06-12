@@ -11,21 +11,16 @@ namespace Moodle_with_MongoDB.Controllers
     [ApiController]
     public class CourseController : ControllerBase
     {
-        //private readonly CourseRepository courseRepository;
-        private readonly ICourseRepsitory _courseRepository;
-        //private readonly ICourseService _courseService;  
-        public CourseController(ICourseRepsitory _courserepository )
+        private readonly ICourseService _courseService;
+        public CourseController(ICourseService courseService)
         {
-            _courseRepository = _courserepository;
-            //courseRepository = courserepository;
-            //_courseService = _courseservice;
-
+            _courseService = courseService;
         }
 
         [HttpGet]
         public IActionResult GetAll()
         {
-            var courses = _courseRepository.GetAll();
+            var courses = _courseService.GetAll();
             return Ok(courses);
         }
 
@@ -33,7 +28,7 @@ namespace Moodle_with_MongoDB.Controllers
         public IActionResult GetByID([FromQuery] GetCourseByIDRequest request)
         {
 
-            return Ok(_courseRepository.GetByID((request)));
+            return Ok(_courseService.GetById((request)));
 
         }
 
@@ -45,7 +40,7 @@ namespace Moodle_with_MongoDB.Controllers
                 return BadRequest("Request is null.");
 
             }
-            _courseRepository.Create((request));
+            _courseService.Create((request));
             return Ok();
 
         }
@@ -53,15 +48,15 @@ namespace Moodle_with_MongoDB.Controllers
         [HttpDelete]
         public IActionResult Delete(DeleteCourseRequest request)
         {
-            _courseRepository.Delete((request));
+            _courseService.Delete((request));
             return Ok();
 
         }
 
         [HttpGet("getbyName")]
-        public IActionResult GetByName([FromQuery] string name)
+        public IActionResult GetByName(GetCourseByNameRequest request)
         {
-            var course = _courseRepository.GetCourseByName(name);
+            var course = _courseService.GetByName(request);
             if (course == null)
             {
                 return BadRequest();

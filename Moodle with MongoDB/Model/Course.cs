@@ -10,14 +10,14 @@ namespace Moodle_with_MongoDB.Model
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string ID { get; set; }
-        [BsonElement("Name")]
-        [JsonPropertyName("Name")]
+
+        [BsonElement]
         public string Name { get; set; }
-        [BsonElement("Teacher ID")]
-        [JsonPropertyName("Teacher ID")]
+
+        [BsonElement]
         public string? TeacherID { get; set; }
-        [BsonElement("Is Deleted")]
-        [JsonPropertyName("Is Deleted")]
+
+        [BsonElement]
         public bool IsDeleted { get; set; } = false;
     }
 }
