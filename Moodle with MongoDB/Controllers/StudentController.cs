@@ -50,19 +50,10 @@ namespace Moodle_with_MongoDB.Controllers
         [HttpPost("getfilename")]
         public IActionResult GetFileName([FromForm] IFormFile file)
         {
-            if (file != null)
-            {
-                try
-                {
-                    var filename = file.FileName;
-                    return Ok(filename);
-                }
-                catch
-                {
-                    return NotFound();
-                }
-            }
-            return NotFound();
+            var filename = file.FileName;
+            return Ok(filename);
         }
+
+        // doc file excel student, import to database
     }
 }

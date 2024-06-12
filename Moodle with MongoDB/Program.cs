@@ -2,6 +2,7 @@
 using MongoDB.Driver;
 using Moodle_with_MongoDB.Model;
 using Moodle_with_MongoDB.Repository;
+using Moodle_with_MongoDB.Service;
 
 namespace Moodle_with_MongoDB
 {
@@ -27,7 +28,10 @@ namespace Moodle_with_MongoDB
             });
 
             builder.Services.AddSingleton<IStudentRepository, StudentRepository>();
-            builder.Services.AddSingleton<ICourseRepsitory,CourseRepository>(); 
+            builder.Services.AddSingleton<ICourseRepsitory,CourseRepository>();
+            builder.Services.AddSingleton<IFileRepository, FileRepository>();
+            builder.Services.AddSingleton<ICourseService, CourseService>();
+
 
             var app = builder.Build();
 

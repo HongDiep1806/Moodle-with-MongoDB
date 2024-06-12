@@ -43,3 +43,12 @@ E:\Moodle with MongoDB\Moodle with MongoDB\obj\Debug\net8.0\refint\Moodle with M
 E:\Moodle with MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.pdb
 E:\Moodle with MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.genruntimeconfig.cache
 E:\Moodle with MongoDB\Moodle with MongoDB\obj\Debug\net8.0\ref\Moodle with MongoDB.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\EPPlus.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\MongoDB.Driver.Legacy.dll

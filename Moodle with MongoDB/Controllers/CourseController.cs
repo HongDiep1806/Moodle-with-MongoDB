@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MongoDB.Driver.Linq;
 using Moodle_with_MongoDB.Repository;
+using Moodle_with_MongoDB.Service;
 using Moodle_with_MongoDB.WebModel;
 
 namespace Moodle_with_MongoDB.Controllers
@@ -9,10 +11,15 @@ namespace Moodle_with_MongoDB.Controllers
     [ApiController]
     public class CourseController : ControllerBase
     {
+        //private readonly CourseRepository courseRepository;
         private readonly ICourseRepsitory _courseRepository;
-        public CourseController(ICourseRepsitory courseRepository)
+        //private readonly ICourseService _courseService;  
+        public CourseController(ICourseRepsitory _courserepository )
         {
-            _courseRepository = courseRepository;
+            _courseRepository = _courserepository;
+            //courseRepository = courserepository;
+            //_courseService = _courseservice;
+
         }
 
         [HttpGet]
@@ -22,10 +29,23 @@ namespace Moodle_with_MongoDB.Controllers
             return Ok(courses);
         }
 
+        [HttpGet("getbyID")]
+        public IActionResult GetByID([FromQuery] GetCourseByIDRequest request)
+        {
+
+            return Ok(_courseRepository.GetByID((request)));
+
+        }
+
         [HttpPost]
         public IActionResult Create(CreateCourseRequest request)
         {
-            _courseRepository.Create(request);
+            if (request == null)
+            {
+                return BadRequest("Request is null.");
+
+            }
+            _courseRepository.Create((request));
             return Ok();
 
         }
@@ -33,16 +53,20 @@ namespace Moodle_with_MongoDB.Controllers
         [HttpDelete]
         public IActionResult Delete(DeleteCourseRequest request)
         {
-            _courseRepository.Delete(request);
+            _courseRepository.Delete((request));
             return Ok();
 
         }
 
-        [HttpPut]
-        public IActionResult Update(UpdateCourseRequest request)
+        [HttpGet("getbyName")]
+        public IActionResult GetByName([FromQuery] string name)
         {
-            _courseRepository.Update(request);
-            return Ok();
+            var course = _courseRepository.GetCourseByName(name);
+            if (course == null)
+            {
+                return BadRequest();
+            }
+            return Ok(course);
         }
     }
 }

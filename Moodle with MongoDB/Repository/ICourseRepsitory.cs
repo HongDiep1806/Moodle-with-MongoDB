@@ -9,5 +9,7 @@ namespace Moodle_with_MongoDB.Repository
         void Create(CreateCourseRequest request);
         void Update(UpdateCourseRequest request);
         void Delete(DeleteCourseRequest request);
+        Course GetByID(GetCourseByIDRequest request);
+        Course GetCourseByName(string courseName);  
     }
 }

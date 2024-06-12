@@ -43,18 +43,44 @@
   },
   {
     "ContainingType": "Moodle_with_MongoDB.Controllers.CourseController",
-    "Method": "Update",
-    "RelativePath": "api/Course",
-    "HttpMethod": "PUT",
+    "Method": "GetByID",
+    "RelativePath": "api/Course/getbyID",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Moodle_with_MongoDB.WebModel.UpdateCourseRequest",
-        "IsRequired": true
+        "Name": "CourseID",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.CourseController",
+    "Method": "GetByName",
+    "RelativePath": "api/Course/getbyName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.FileController",
+    "Method": "InsertStudentsFromFile",
+    "RelativePath": "api/File",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
