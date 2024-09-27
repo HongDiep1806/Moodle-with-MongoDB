@@ -43,6 +43,22 @@
   },
   {
     "ContainingType": "Moodle_with_MongoDB.Controllers.CourseController",
+    "Method": "UpdateCourse",
+    "RelativePath": "api/Course",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Moodle_with_MongoDB.WebModel.UpdateCourseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.CourseController",
     "Method": "GetByID",
     "RelativePath": "api/Course/getbyID",
     "HttpMethod": "GET",
@@ -85,7 +101,7 @@
   },
   {
     "ContainingType": "Moodle_with_MongoDB.Controllers.StudentController",
-    "Method": "Index",
+    "Method": "GetAll",
     "RelativePath": "api/Student",
     "HttpMethod": "GET",
     "IsController": true,
@@ -139,6 +155,16 @@
         "IsRequired": false
       },
       {
+        "Name": "IRN",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "DOB",
         "Type": "System.String",
         "IsRequired": false
@@ -152,9 +178,82 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Moodle_with_MongoDB.Controllers.StudentController",
+    "ContainingType": "Moodle_with_MongoDB.Controllers.TeacherController",
+    "Method": "GetAll",
+    "RelativePath": "api/Teacher",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.TeacherController",
+    "Method": "Create",
+    "RelativePath": "api/Teacher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Moodle_with_MongoDB.WebModel.CreateTeacherRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.TeacherController",
+    "Method": "Delete",
+    "RelativePath": "api/Teacher",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Moodle_with_MongoDB.WebModel.DeleteTeacherRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.TeacherController",
+    "Method": "Update",
+    "RelativePath": "api/Teacher",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DOB",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.TeacherController",
     "Method": "GetFileName",
-    "RelativePath": "api/Student/getfilename",
+    "RelativePath": "api/Teacher/getfilename",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -188,6 +287,32 @@
         "Name": "FileName",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Moodle_with_MongoDB.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Moodle_with_MongoDB.WebModel.CreateUserRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

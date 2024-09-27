@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qbq2gk7XlB0=",
+  "dgSpecHash": "Y8VCJteK754=",
   "success": true,
-  "projectFilePath": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.csproj",
+  "projectFilePath": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

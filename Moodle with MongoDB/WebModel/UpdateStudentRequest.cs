@@ -10,6 +10,8 @@ namespace Moodle_with_MongoDB.WebModel
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string ID { get; set; }
+        public string? IRN { get; set; }
+        public string? Name { get; set; }
         public string? DOB { get; set; }
         public string? Address { get; set; }
     }

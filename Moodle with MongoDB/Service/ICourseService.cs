@@ -10,5 +10,6 @@ namespace Moodle_with_MongoDB.Service
         List<Course> GetAll();
         Course GetById(GetCourseByIDRequest request);
         Course GetByName(GetCourseByNameRequest request);
+        void Update(UpdateCourseRequest request);
     }
 }

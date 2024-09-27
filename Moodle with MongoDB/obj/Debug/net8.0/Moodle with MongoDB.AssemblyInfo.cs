@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Moodle with MongoDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a98dcc4386c3ffcaff8974fb4f070c7279a7da0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Moodle with MongoDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Moodle with MongoDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

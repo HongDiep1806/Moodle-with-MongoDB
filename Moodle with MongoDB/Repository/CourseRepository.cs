@@ -16,6 +16,7 @@ namespace Moodle_with_MongoDB.Repository
         {
             var filter = Builders<Course>.Filter.Eq(c => c.Name, courseName);
             var course = _collection.Find(filter).FirstOrDefault();
+            
 
             return course;
         }

@@ -11,6 +11,19 @@ namespace Moodle_with_MongoDB
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(MyAllowSpecificOrigins,
+                                      policy =>
+                                      {
+                                          policy.AllowAnyOrigin()
+                                                .AllowAnyHeader()
+                                                .AllowAnyMethod();
+                                      });
+            });
+
 
             // Add services to the container.
 
@@ -27,10 +40,15 @@ namespace Moodle_with_MongoDB
                 return client.GetDatabase(mongodbsettings.DatabaseName);
             });
 
-            builder.Services.AddSingleton<IStudentRepository, StudentRepository>();
-            builder.Services.AddSingleton<ICourseRepsitory,CourseRepository>();
+            builder.Services.AddSingleton<ITeacherRepository, TeacherRepository>();
+            builder.Services.AddSingleton<ICourseRepsitory, CourseRepository>();
             builder.Services.AddSingleton<IFileRepository, FileRepository>();
+            builder.Services.AddSingleton<IStudentRepository, StudentRepository>();
+            builder.Services.AddSingleton<IUserRepository, UserRepository>();
             builder.Services.AddSingleton<ICourseService, CourseService>();
+            builder.Services.AddSingleton<ITeacherService, TeacherService>();
+            builder.Services.AddSingleton<IStudentService, StudentService>();
+            builder.Services.AddSingleton<IUserService, UserService>();
 
 
             var app = builder.Build();
@@ -41,6 +59,8 @@ namespace Moodle_with_MongoDB
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseCors(MyAllowSpecificOrigins);
 
             app.UseHttpsRedirection();
 

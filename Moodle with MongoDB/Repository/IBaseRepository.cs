@@ -8,5 +8,6 @@ namespace Moodle_with_MongoDB.Repository
         void Delete(string id);
         List<T> GetAll();
         T GetByID(string id);
+        void Update(string id, T entity);
     }
 }

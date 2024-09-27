@@ -40,5 +40,10 @@ namespace Moodle_with_MongoDB.Service
         }
 
 
+        public void Update(UpdateCourseRequest request)
+        {
+            _courseRepository.Update(request.ID, new Course() { ID = request.ID, Name = request.Name, TeacherID = request.TeacherID });
+
+        }
     }
 }

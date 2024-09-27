@@ -46,7 +46,7 @@ namespace Moodle_with_MongoDB.Controllers
         }
 
         [HttpDelete]
-        public IActionResult Delete(DeleteCourseRequest request)
+        public IActionResult Delete([FromBody] DeleteCourseRequest request)
         {
             _courseService.Delete((request));
             return Ok();
@@ -62,6 +62,12 @@ namespace Moodle_with_MongoDB.Controllers
                 return BadRequest();
             }
             return Ok(course);
+        }
+        [HttpPut]
+        public IActionResult UpdateCourse (UpdateCourseRequest request)
+        {
+            _courseService.Update((request));
+            return Ok();
         }
     }
 }

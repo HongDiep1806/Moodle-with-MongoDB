@@ -7,15 +7,15 @@ namespace Moodle_with_MongoDB.Repository
 {
     public class FileRepository : IFileRepository
     {
-        private readonly IMongoCollection<Student> _mongoStudentCollection;
+        private readonly IMongoCollection<Teacher> _mongoStudentCollection;
         public FileRepository(IMongoDatabase mongoDatabase)
         {
-            _mongoStudentCollection = mongoDatabase.GetCollection<Student>("Students");
+            _mongoStudentCollection = mongoDatabase.GetCollection<Teacher>("Students");
         }
         public void ImportStudentsFromFile()
         {
             var filePath = "E:\\Data Moodle.xlsx";
-            List<Student> students = new List<Student>();
+            List<Teacher> students = new List<Teacher>();
 
             using (var package = new ExcelPackage(new FileInfo(filePath)))
             {
@@ -23,7 +23,7 @@ namespace Moodle_with_MongoDB.Repository
 
                 for (int row = 1; row <= worksheet.Dimension.End.Row; row++)
                 {
-                    Student student = new Student
+                    Teacher student = new Teacher
                     {
                         Name = worksheet.Cells[row, 1].Value.ToString(),
                         DOB = (worksheet.Cells[row, 2].Value.ToString()),

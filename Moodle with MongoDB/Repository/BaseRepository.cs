@@ -32,6 +32,11 @@ namespace Moodle_with_MongoDB.Repository
         {
             _collection.InsertOne(entity);
         }
+        public void Update(string id,T entity)
+        {
+            var filter = Builders<T>.Filter.Eq("_id", ObjectId.Parse(id));
+            _collection.ReplaceOne(filter, entity);
+        }
     }
 
     }

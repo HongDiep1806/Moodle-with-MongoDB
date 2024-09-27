@@ -1,32 +1,30 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Moodle_with_MongoDB.Model;
-using Moodle_with_MongoDB.Repository;
+﻿using Microsoft.AspNetCore.Mvc;
+using Moodle_with_MongoDB.Service;
 using Moodle_with_MongoDB.WebModel;
 
 namespace Moodle_with_MongoDB.Controllers
 {
-    [ApiController]
     [Route("api/[controller]")]
+    [ApiController]
     public class StudentController : ControllerBase
     {
-        private readonly IStudentRepository _studentRepository;
-        public StudentController(IStudentRepository studentRepository)
+        private readonly IStudentService _studentService;
+        public StudentController(IStudentService studentService)
         {
-            _studentRepository = studentRepository;
+            _studentService = studentService;
         }
 
         [HttpGet]
-        public IActionResult Index()
+        public IActionResult GetAll()
         {
-            var students = _studentRepository.GetAll();
+            var students = _studentService.GetAll();
             return Ok(students);
         }
 
         [HttpPost]
         public IActionResult Create([FromBody] CreateStudentRequest request)
         {
-            _studentRepository.Create(request);
+            _studentService.Create(request);
             return Ok();
 
         }
@@ -34,7 +32,7 @@ namespace Moodle_with_MongoDB.Controllers
         [HttpDelete]
         public IActionResult Delete(DeleteStudentRequest request)
         {
-            _studentRepository.Delete(request);
+            _studentService.Delete(request);
             return Ok();
 
         }
@@ -42,18 +40,9 @@ namespace Moodle_with_MongoDB.Controllers
         [HttpPut]
         public IActionResult Update([FromForm] UpdateStudentRequest request)
         {
-            _studentRepository.Update(request);
+            _studentService.Update(request);
             return Ok();
 
         }
-
-        [HttpPost("getfilename")]
-        public IActionResult GetFileName([FromForm] IFormFile file)
-        {
-            var filename = file.FileName;
-            return Ok(filename);
-        }
-
-        // doc file excel student, import to database
     }
 }
