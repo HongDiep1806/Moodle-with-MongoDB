@@ -52,3 +52,58 @@ E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\System.Drawing.Commo
 E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\Moodle with MongoDB\Moodle with MongoDB\bin\Debug\net8.0\MongoDB.Driver.Legacy.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\appsettings.Development.json
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\appsettings.json
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Moodle with MongoDB.exe
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Moodle with MongoDB.deps.json
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Moodle with MongoDB.runtimeconfig.json
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Moodle with MongoDB.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Moodle with MongoDB.pdb
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\DnsClient.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\EPPlus.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\MongoDB.Driver.Legacy.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\SharpCompress.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Snappier.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\ZstdSharp.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.csproj.AssemblyReference.cache
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.AssemblyInfoInputs.cache
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.AssemblyInfo.cs
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.csproj.CoreCompileInputs.cache
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.MvcApplicationPartsAssemblyInfo.cs
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.MvcApplicationPartsAssemblyInfo.cache
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.sourcelink.json
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\staticwebassets.build.json
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\staticwebassets.development.json
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\staticwebassets\msbuild.Moodle with MongoDB.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\staticwebassets\msbuild.build.Moodle with MongoDB.props
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Moodle with MongoDB.props
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Moodle with MongoDB.props
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\scopedcss\bundle\Moodle with MongoDB.styles.css
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle w.8CCCD51C.Up2Date
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\refint\Moodle with MongoDB.dll
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.pdb
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\Moodle with MongoDB.genruntimeconfig.cache
+E:\Moodle-with-MongoDB\Moodle with MongoDB\obj\Debug\net8.0\ref\Moodle with MongoDB.dll

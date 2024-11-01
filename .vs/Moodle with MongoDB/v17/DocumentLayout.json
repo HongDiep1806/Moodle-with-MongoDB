@@ -1,210 +1,154 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Moodle with MongoDB\\",
+  "WorkspaceRootPath": "E:\\Moodle-with-MongoDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\icourserepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\icourserepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\encryptpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\encryptpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\createteacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\createteacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\service\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\service\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\model\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\model\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\model\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\updatecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\updatecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\deletestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\deletestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\deleteteacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\deleteteacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\deletecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\deletecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\createstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\createstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\getteachernamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\getteachernamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\getcoursebyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\getcoursebyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\updateteacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\updateteacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\replacecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\replacecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\webmodel\\getcoursebynamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\getcoursebynamerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\moodle with mongodb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\model\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\model\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\moodle with mongodb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\moodle with mongodb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle with mongodb\\moodle with mongodb\\moodle with mongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\moodle with mongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\icourserepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\icourserepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\webmodel\\encryptpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\encryptpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\webmodel\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\webmodel\\createteacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\createteacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\service\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\service\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\repository\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\model\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\model\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\webmodel\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|e:\\moodle-with-mongodb\\moodle with mongodb\\webmodel\\updatecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8637C-A76D-4BBA-A22F-4799196B93D5}|Moodle with MongoDB\\Moodle with MongoDB.csproj|solutionrelative:moodle with mongodb\\webmodel\\updatecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -214,592 +158,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\UserService.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\UserService.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Service\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T14:02:57.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\UserRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:57:17.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\IUserRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:56:17.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\CourseRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\CourseRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\CourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T00:00:31.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\CourseService.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\CourseService.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\CourseService.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Service\\CourseService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwBUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T08:46:44.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICourseRepsitory.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\ICourseRepsitory.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\ICourseRepsitory.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\ICourseRepsitory.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\ICourseRepsitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:54:19.217Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\IUserService.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\IUserService.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Service\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:58:26.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EncryptPasswordRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\EncryptPasswordRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\EncryptPasswordRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\EncryptPasswordRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\EncryptPasswordRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T08:18:15.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICourseService.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\ICourseService.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\ICourseService.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\ICourseService.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Service\\ICourseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T08:37:50.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T14:06:41.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\CourseController.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T00:19:47.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateUserRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\CreateUserRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\CreateUserRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\CreateUserRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\CreateUserRequest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:59:25.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateCourseRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\CreateCourseRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\CreateCourseRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\CreateCourseRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\CreateCourseRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T00:08:38.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateTeacherRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\CreateTeacherRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\CreateTeacherRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\CreateTeacherRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\CreateTeacherRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T13:58:53.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Program.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Program.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Program.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwC8AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T12:38:42.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\User.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\User.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Model\\User.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:50:12.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\TeacherController.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\TeacherController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T14:28:55.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\StudentController.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:27:18.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ITeacherRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\ITeacherRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\ITeacherRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\ITeacherRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\ITeacherRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T14:04:36.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\TeacherService.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\TeacherService.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\TeacherService.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Service\\TeacherService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:03:44.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\StudentRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\StudentRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:52:08.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\IStudentRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\IStudentRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:51:25.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ITeacherService.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\ITeacherService.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\ITeacherService.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\ITeacherService.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Service\\ITeacherService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:01:20.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "TeacherRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\TeacherRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\TeacherRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\TeacherRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\TeacherRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T14:20:39.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserType.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\UserType.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\UserType.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\UserType.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Model\\UserType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T13:51:38.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FileRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\FileRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\FileRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\FileRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\FileRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:43:24.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\StudentService.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\StudentService.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\StudentService.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Service\\StudentService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:11:06.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Student.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\Student.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\Student.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\Student.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Model\\Student.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:48:12.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IFileRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\IFileRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\IFileRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\IFileRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\IFileRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:26:23.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "FileController.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\FileController.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\FileController.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Controllers\\FileController.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\FileController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:57:25.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\Teacher.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\Teacher.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\Teacher.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Model\\Teacher.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T12:58:44.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Submission.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\Submission.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\Submission.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\Submission.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Model\\Submission.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:42:26.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "MongoDBSettings.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\MongoDBSettings.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\MongoDBSettings.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\MongoDBSettings.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Model\\MongoDBSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T14:09:55.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Course.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\Course.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\Course.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Model\\Course.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Model\\Course.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T23:46:05.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\appsettings.json",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\appsettings.json",
               "RelativeDocumentMoniker": "Moodle with MongoDB\\appsettings.json",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\appsettings.json",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\appsettings.json",
               "RelativeToolTip": "Moodle with MongoDB\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-25T14:07:03.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\IStudentService.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\IStudentService.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Service\\IStudentService.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Service\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:06:02.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "UpdateStudentRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\UpdateStudentRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\UpdateStudentRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\UpdateStudentRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\UpdateStudentRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:07:28.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "UpdateCourseRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\UpdateCourseRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\UpdateCourseRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\UpdateCourseRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\UpdateCourseRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T00:10:25.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\IBaseRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\IBaseRepository.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\Repository\\IBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T10:00:49.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DeleteStudentRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\DeleteStudentRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\DeleteStudentRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\DeleteStudentRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\DeleteStudentRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:02:06.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "DeleteTeacherRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\DeleteTeacherRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\DeleteTeacherRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\DeleteTeacherRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\DeleteTeacherRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T14:54:39.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "DeleteCourseRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\DeleteCourseRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\DeleteCourseRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\DeleteCourseRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\DeleteCourseRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T00:10:43.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "CreateStudentRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\CreateStudentRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\CreateStudentRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\CreateStudentRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\CreateStudentRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:54:51.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "GetCourseByIDRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\GetCourseByIDRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\GetCourseByIDRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\GetCourseByIDRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\GetCourseByIDRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:38:58.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "GetTeacherNameRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\GetTeacherNameRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\GetTeacherNameRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\GetTeacherNameRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\GetTeacherNameRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T09:23:51.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "UpdateTeacherRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\UpdateTeacherRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\UpdateTeacherRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\UpdateTeacherRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\UpdateTeacherRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T15:46:27.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ReplaceCourseRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\ReplaceCourseRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\ReplaceCourseRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\ReplaceCourseRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\ReplaceCourseRequest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:01:57.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "GetCourseByNameRequest.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\GetCourseByNameRequest.cs",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\GetCourseByNameRequest.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\WebModel\\GetCourseByNameRequest.cs",
-              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\GetCourseByNameRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:45:55.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 5,
               "Title": "BaseRepository.cs",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\BaseRepository.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\BaseRepository.cs",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Repository\\BaseRepository.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\BaseRepository.cs",
               "RelativeToolTip": "Moodle with MongoDB\\Repository\\BaseRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -807,27 +186,424 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 3,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\IBaseRepository.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\IBaseRepository.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Repository\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:00:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\StudentRepository.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:52:08.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\IStudentRepository.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:51:25.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\UserType.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\UserType.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\UserType.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Model\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:51:38.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:19:47.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\MongoDBSettings.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\MongoDBSettings.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Model\\MongoDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:09:55.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\Course.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\Course.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Model\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:46:05.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Moodle with MongoDB.http",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.http",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.http",
               "RelativeDocumentMoniker": "Moodle with MongoDB\\Moodle with MongoDB.http",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.http",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.http",
               "RelativeToolTip": "Moodle with MongoDB\\Moodle with MongoDB.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-05-25T12:56:53.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Moodle with MongoDB.csproj",
-              "DocumentMoniker": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.csproj",
-              "RelativeDocumentMoniker": "Moodle with MongoDB\\Moodle with MongoDB.csproj",
-              "ToolTip": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.csproj",
-              "RelativeToolTip": "Moodle with MongoDB\\Moodle with MongoDB.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAApwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-12T08:36:59.82Z"
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\IUserService.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\IUserService.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:58:26.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICourseRepsitory.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\ICourseRepsitory.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\ICourseRepsitory.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\ICourseRepsitory.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Repository\\ICourseRepsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:54:19.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\CourseService.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\CourseService.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Service\\CourseService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:46:44.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\UserService.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\UserService.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:02:57.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\IUserRepository.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:56:17.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:57:17.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EncryptPasswordRequest.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\EncryptPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\EncryptPasswordRequest.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\EncryptPasswordRequest.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\EncryptPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:18:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\ICourseService.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\ICourseService.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Service\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T08:37:50.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:06:41.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCourseRequest.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\CreateCourseRequest.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\CreateCourseRequest.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\CreateCourseRequest.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\CreateCourseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:08:38.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateTeacherRequest.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\CreateTeacherRequest.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\CreateTeacherRequest.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\CreateTeacherRequest.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\CreateTeacherRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:58:53.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Program.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Program.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwC8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:38:42.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\User.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\User.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Model\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:50:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\TeacherController.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:28:55.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:27:18.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\TeacherService.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\TeacherService.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Service\\TeacherService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:03:44.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\ITeacherService.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\ITeacherService.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Service\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:01:20.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\TeacherRepository.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Repository\\TeacherRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:20:39.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\FileRepository.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Repository\\FileRepository.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Repository\\FileRepository.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Repository\\FileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:43:24.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\StudentService.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\StudentService.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Service\\StudentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:11:06.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\Student.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\Student.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Model\\Student.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:48:12.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Controllers\\FileController.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:57:25.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\Teacher.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\Teacher.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\Teacher.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Model\\Teacher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:58:44.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\Submission.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Model\\Submission.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Model\\Submission.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Model\\Submission.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:42:26.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\Service\\IStudentService.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Service\\IStudentService.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\Service\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:06:02.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateStudentRequest.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\UpdateStudentRequest.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\UpdateStudentRequest.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\UpdateStudentRequest.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\UpdateStudentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:07:28.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateCourseRequest.cs",
+              "DocumentMoniker": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\UpdateCourseRequest.cs",
+              "RelativeDocumentMoniker": "Moodle with MongoDB\\WebModel\\UpdateCourseRequest.cs",
+              "ToolTip": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\WebModel\\UpdateCourseRequest.cs",
+              "RelativeToolTip": "Moodle with MongoDB\\WebModel\\UpdateCourseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:10:25.574Z"
             }
           ]
         }

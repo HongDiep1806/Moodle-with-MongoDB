@@ -2321,11 +2321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.csproj",
+      "projectUniqueName": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.csproj",
       "projectName": "Moodle with MongoDB",
-      "projectPath": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.csproj",
+      "projectPath": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\Moodle with MongoDB.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "E:\\Moodle with MongoDB\\Moodle with MongoDB\\obj\\",
+      "outputPath": "E:\\Moodle-with-MongoDB\\Moodle with MongoDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
